@@ -24,7 +24,7 @@ To run this project, you'll need:
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/Attendance-system-using-Face-recognization-.git
+git clone https://github.com/aseemk11/Attendance-system-using-Face-recognization-.git
 ```
 
 2. Install the required dependencies:
